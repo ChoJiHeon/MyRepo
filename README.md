@@ -3,3 +3,4 @@
 다시 한번 더 수정하고 add 하지 않음.
 vs code로 add, commit, push하기
 pull로 땡겨오기
+진짜로 강의 졸림
