@@ -3,3 +3,5 @@
 다시 한번 더 수정하고 add 하지 않음.
 vs code로 add, commit, push하기
 pull로 땡겨오기
+git 
+강의 겁네 못함
